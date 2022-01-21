@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-Bold.eot');
+  src: local('NeutrifPro-Bold'),
+      url('/fonts/neutrif/NeutrifPro-Bold.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-Bold.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-Bold.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-Light.eot');
+  src: local('NeutrifPro-Light'),
+      url('/fonts/neutrif/NeutrifPro-Light.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-Light.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-Light.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-MediumItalic.eot');
+  src: local('NeutrifPro-MediumItalic'),
+      url('/fonts/neutrif/NeutrifPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-MediumItalic.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-MediumItalic.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-Medium.eot');
+  src: local('NeutrifPro-Medium'),
+      url('/fonts/neutrif/NeutrifPro-Medium.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-Medium.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-Medium.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-BoldItalic.eot');
+  src: local('NeutrifPro-BoldItalic'),
+      url('/fonts/neutrif/NeutrifPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-BoldItalic.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-BoldItalic.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-LightItalic.eot');
+  src: local('NeutrifPro-LightItalic'),
+      url('/fonts/neutrif/NeutrifPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-LightItalic.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-LightItalic.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-SemiBold.eot');
+  src: local('NeutrifPro-SemiBold'),
+      url('/fonts/neutrif/NeutrifPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-SemiBold.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-SemiBold.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-Regular.eot');
+  src: local('NeutrifPro-Regular'),
+      url('/fonts/neutrif/NeutrifPro-Regular.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-Regular.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-Regular.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-RegularItalic.eot');
+  src: local('NeutrifPro-RegularItalic'),
+      url('/fonts/neutrif/NeutrifPro-RegularItalic.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-RegularItalic.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-RegularItalic.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-RegularItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neutrif Pro';
+  src: url('/fonts/neutrif/NeutrifPro-SemiBoldItalic.eot');
+  src: local('NeutrifPro-SemiBoldItalic'),
+      url('/fonts/neutrif/NeutrifPro-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/neutrif/NeutrifPro-SemiBoldItalic.woff2') format('woff2'),
+      url('/fonts/neutrif/NeutrifPro-SemiBoldItalic.woff') format('woff'),
+      url('/fonts/neutrif/NeutrifPro-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}

@@ -1,0 +1,13 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  font-family: 'Neutrif Pro';
+}
+
+body {
+  width: 100vw;
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
